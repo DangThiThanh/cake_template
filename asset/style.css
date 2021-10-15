@@ -1116,7 +1116,7 @@ body {
     background-color: #f06938;
 }
 
-.blog__item-date h3, p {
+.blog__item-date h3, .blog__item-date p {
     color: #fff;
 }
 
